@@ -1,0 +1,1 @@
+Software Engineer with 5 years of experience in full-stack development. Proficient in Python, JavaScript, React, and Node.js. Experience with AWS cloud services, Docker containerization, and microservices architecture. Led development of scalable web applications serving millions of users. Strong background in database design and optimization.
